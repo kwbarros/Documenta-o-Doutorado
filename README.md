@@ -1,24 +1,19 @@
-# TÍTULO DO PROJETO
+# Sistema para Suporte à Adesão à Terapia Medicamentosa da Insuficiência Cardíaca - SATM-IC
 
-`CURSO`
+Este sistema faz parte do projeto de pesquisa desenvolvido pela pesquisadora 
+Kátia Adriana Alves Leite de Barros, discente do programa de pós-graduação em Ciências da Saúde: 
+Infectologia e Medicina Tropical, na linha de pesquisa Telessaúde, 
+da Faculdade de Medicina da Universidade Federal de Minas Gerais - UFMG.
 
-`DISCIPLINA`
+## Desenvolvedora
 
-`SEMESTRE`
+* Kátia Adriana Alves Leite de Barros
+  
+## Orientadores
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
-
-## Integrantes
-
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-
-## Orientador
-
-* Nome completo do professor 1
-
+* Maria Auxiliadora P Martins (orientadora)
+* Antônio Luiz P Ribeiro (coorientador)
+  
 ## Instruções de utilização
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
